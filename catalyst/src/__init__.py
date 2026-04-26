@@ -1,1 +1,0 @@
-# Catalyst skill assessment package.
