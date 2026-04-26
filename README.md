@@ -1,4 +1,4 @@
-# Catalyst: AI Skill Assessment & Personalized Learning Plan Agent
+# AI Skill Assessment & Personalized Learning Plan Agent
 
 This project evaluates what a candidate can actually do (not just claim on a resume) by combining:
 - job-description skill extraction,
